@@ -1,0 +1,27 @@
+---
+template: 'mytemplate.tex'
+documentclass: article
+#classoption: sigconf
+title: Regis Iussu Cantio Et Reliqua Canonica Arte Resoluta
+date: 2021-01-02
+author:
+- name: Marco Favorito
+  affiliation: Sapienza University of Rome
+  location: Department of Computer, Control and Management Engineering
+  address: Via Ariosto, 25, 00185 Roma RM, Italy
+  email: favorito@diag.uniroma1.it
+  site: https://marcofavorito.me
+bibliography: biblio.bib
+abstract: Quaerendo Invenietis.
+link: https://marcofavorito.me/docs-template
+
+include-before: |
+  ```{=latex}
+  ```
+figPrefix:
+  - "Fig."
+  - "Figs."
+secPrefix:
+  - "Section"
+  - "Sections"
+...
