@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/marcofavorito/docs-template/tree/gh-pages) branch hosts the contents of this directory at <https://marcofavorito.github.io/docs-template/>.
-The permalink for this webpage version is <https://marcofavorito.github.io/docs-template/v/487de2498325e0daa35b0082e324174625e0e1a1/>.
+The permalink for this webpage version is <https://marcofavorito.github.io/docs-template/v/c31074d0edebc57367a923fa9cf954ca1792512c/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://marcofavorito.github.io/docs-template/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`487de2498325e0daa35b0082e324174625e0e1a1`](https://github.com/marcofavorito/docs-template/commit/487de2498325e0daa35b0082e324174625e0e1a1).
+[`c31074d0edebc57367a923fa9cf954ca1792512c`](https://github.com/marcofavorito/docs-template/commit/c31074d0edebc57367a923fa9cf954ca1792512c).
