@@ -1,21 +1,21 @@
 [
 {
-  "id": "url:https://github.com/manubot/rootstock",
+  "id": "url:https://github.com/marcofavorito/docs-template",
   "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
+  "URL": "https://github.com/marcofavorito/docs-template",
+  "title": "Regis Iussu Cantio Et Reliqua Canonica Arte Resoluta",
   "container-title": "GitHub",
   "issued": {
     "date-parts": [
       [
-        2019
+        2021
       ]
     ]
   },
   "author": [
     {
-      "given": "Daniel",
-      "family": "Himmelstein"
+      "given": "Marco",
+      "family": "Favorito"
     }
   ]
 }

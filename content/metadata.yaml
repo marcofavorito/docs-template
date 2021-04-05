@@ -1,26 +1,20 @@
 ---
-title: "Manuscript Title"
+title: Regis Iussu Cantio Et Reliqua Canonica Arte Resoluta
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - bach
+  - musical offering
+  - art of fugue
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+  - github: marcofavorito
+    name: Marco Favorito
+    initials: MF
+    orcid: 0000-0001-9566-3576
+    #twitter: marcofavorit
+    website: https://marcofavorito.me
+    email: favorito@diag.uniroma1.it
+    affiliations: 
+    - Department of Computer, Control and Management Engineering - Sapienza University of Rome
+    #funders:
+    #  - Grant XXXXXXXX
+
