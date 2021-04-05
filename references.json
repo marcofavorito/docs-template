@@ -1,0 +1,21 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bach",
+        "given": "Johann Sebastian"
+      }
+    ],
+    "id": "twEKHAew",
+    "issued": {
+      "date-parts": [
+        [
+          1752
+        ]
+      ]
+    },
+    "title": "Die Kunst der Fuge",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: BachJohannSebastianDKdF",
+    "type": "entry"
+  }
+]
