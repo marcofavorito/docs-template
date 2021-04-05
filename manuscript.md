@@ -35,9 +35,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://marcofavorito.github.io/docs-template/" />
   <meta name="citation_pdf_url" content="https://marcofavorito.github.io/docs-template/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcofavorito.github.io/docs-template/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcofavorito.github.io/docs-template/v/487de2498325e0daa35b0082e324174625e0e1a1/" />
-  <meta name="manubot_html_url_versioned" content="https://marcofavorito.github.io/docs-template/v/487de2498325e0daa35b0082e324174625e0e1a1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcofavorito.github.io/docs-template/v/487de2498325e0daa35b0082e324174625e0e1a1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcofavorito.github.io/docs-template/v/c31074d0edebc57367a923fa9cf954ca1792512c/" />
+  <meta name="manubot_html_url_versioned" content="https://marcofavorito.github.io/docs-template/v/c31074d0edebc57367a923fa9cf954ca1792512c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcofavorito.github.io/docs-template/v/c31074d0edebc57367a923fa9cf954ca1792512c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcofavorito.github.io/docs-template/v/487de2498325e0daa35b0082e324174625e0e1a1/))
+([permalink](https://marcofavorito.github.io/docs-template/v/c31074d0edebc57367a923fa9cf954ca1792512c/))
 was automatically generated
-from [marcofavorito/docs-template@487de24](https://github.com/marcofavorito/docs-template/tree/487de2498325e0daa35b0082e324174625e0e1a1)
+from [marcofavorito/docs-template@c31074d](https://github.com/marcofavorito/docs-template/tree/c31074d0edebc57367a923fa9cf954ca1792512c)
 on April 5, 2021.
 </em></small>
 
